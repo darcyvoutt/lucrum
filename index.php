@@ -3,41 +3,10 @@
 	<div class="content">
     
     <div class="login">
-      <form method="POST" action="game.php">
-
-        <h3>Student Login</h3>
-
-        <div class="formRow">
-          <div class="formRow-label">
-            <label for="email">Email</label>
-          </div>
-          <div class="formRow-input">
-            <input id="email" type="text" />
-          </div>
-        </div>
-
-        <div class="formRow">
-          <div class="formRow-label">
-            <label for="password">Password</label>
-          </div>
-          <div class="formRow-input">
-            <input id="password" type="text" />
-          </div>
-        </div>
-
-        <a href="#">Forgot Password</a>
-
-        <div class="formRow">
-          <input type="submit" />
-        </div>
-
-      </form>      
-
-      <br><br>
 
       <form method="POST" action="manage.php">
 
-        <h3>Professor Login</h3>
+        <h3>Login</h3>
 
         <div class="formRow">
           <div class="formRow-label">

@@ -2,12 +2,27 @@
 // Content
 ////////////////////////////////////////////////
 
+@height: 18px;
+
 .content {
   background: @contentBack;
 }
 
-.professorDashboard {
+.professorDashboard { 
+  
+  select {
+    line-height: @height;
+  }
+
   button {
     float: right;
+     line-height: @height;
   }
+}
+
+.addPlayer {
+  display: block;
+  float: right;
+  height: @height;
+  width: 23%;  
 }

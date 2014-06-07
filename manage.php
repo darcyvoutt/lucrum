@@ -16,6 +16,7 @@
           <th>Status</th>
           <th>Start</th>
           <th>End</th>
+          <th></th>
         </tr>
         <tr>
           <td>1</td>
@@ -24,6 +25,7 @@
           <td>Active</td>
           <td>May 12, 2013</td>
           <td>Jun 20, 2015</td>
+          <td><button>End Game</button></td>
         </tr>
         <tr>
           <td>2</td>
@@ -32,6 +34,7 @@
           <td>Scheduled</td>
           <td>Jan 20, 2015</td>
           <td>Jun 20, 2015</td>
+          <td></td>
         </tr>
         <tr>
           <td>3</td>
@@ -40,13 +43,17 @@
           <td>Draft</td>
           <td>Jan 20, 2015</td>
           <td>Jun 20, 2015</td>
+          <td></td>
         </tr>
       </table>
 
 
     <h1>Teams</h1>
 
-      <button>Create Team</button>
+      <a href="create_team.php">
+        <!-- Hyperlink only for demonstration, remove when building structure -->
+        <button>Create Team</button>
+      </a>
 
       <table>
         <tr>
@@ -74,7 +81,10 @@
 
     <h1>Players</h1>
 
-      <button>Create Player</button>
+      <a href="create_player.php">
+        <!-- Hyperlink only for demonstration, remove when building structure -->
+        <button>Create Player</button>
+      </a>
 
       <table>
         <tr>

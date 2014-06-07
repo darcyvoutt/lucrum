@@ -6,7 +6,17 @@
 
       <h1>Team Players - Team A</h1>
 
-      <button>Add Player</button>
+
+      <div class="addPlayer">
+        <select name="players" id="players">
+          <!-- This can be only players not already in a team -->
+          <option value="user-2193">Joseph William</option>  
+          <option value="user-2193">James William</option>  
+          <option value="user-2193">Janice William</option>        
+        </select>
+
+        <button>Add Player</button>        
+      </div>      
 
       <table>
           <tr>
