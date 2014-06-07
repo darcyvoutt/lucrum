@@ -4,6 +4,10 @@
 
     <h1>Dashboard</h1>
 
+    <p>Read only data.</p>
+
+    <br><br>
+
     <h2>Game Data</h2>
 
     <div class="formRow">

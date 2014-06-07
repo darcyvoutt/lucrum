@@ -6,6 +6,8 @@
 
     <h1>Current Games</h1>
 
+      <button>Create Game</button>
+
       <table>
         <tr>
           <th>ID</th>
@@ -17,7 +19,7 @@
         </tr>
         <tr>
           <td>1</td>
-          <td><a href="game.php">MK101</a></td>
+          <td><a href="dashboard.php">MK101</a></td>
           <td>Team A, Team B</td>
           <td>Active</td>
           <td>May 12, 2013</td>
@@ -25,7 +27,7 @@
         </tr>
         <tr>
           <td>2</td>
-          <td><a href="game.php">GB203</a></td>
+          <td><a href="dashboard.php">GB203</a></td>
           <td>Team A, Team C</td>
           <td>Scheduled</td>
           <td>Jan 20, 2015</td>
@@ -33,7 +35,7 @@
         </tr>
         <tr>
           <td>3</td>
-          <td><a href="game.php">SM404</a></td>
+          <td><a href="dashboard.php">SM404</a></td>
           <td>Team B, Team C</td>
           <td>Draft</td>
           <td>Jan 20, 2015</td>
@@ -44,8 +46,8 @@
 
     <h1>Teams</h1>
 
-      <button>Add Team</button>
-      
+      <button>Create Team</button>
+
       <table>
         <tr>
           <th>ID</th>
@@ -54,23 +56,25 @@
         </tr>
         <tr>
           <td>1</td>
-          <td>Team A</td>
+          <td><a href="team.php">Team A</a></td>
           <td><button>Delete</button></td>
         </tr>
         <tr>
           <td>2</td>
-          <td>Team B</td>
+          <td><a href="team.php">Team B</a></td>
           <td><button>Delete</button></td>
         </tr>
         <tr>
           <td>3</td>
-          <td>Team C</td>
+          <td><a href="team.php">Team C</a></td>
           <td><button>Delete</button></td>
         </tr>
       </table>
 
 
     <h1>Players</h1>
+
+      <button>Create Player</button>
 
       <table>
         <tr>

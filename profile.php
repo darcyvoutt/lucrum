@@ -18,11 +18,6 @@
           <div class="formRow-input"><input type="text" value="" /></div>
         </div>
 
-        <div class="formRow">
-          <div class="formRow-label"><label>Team Name</label></div>
-          <div class="formRow-input"><input type="text" value="" /></div>
-        </div>
-
         <br>
 
         <div class="formRow">
