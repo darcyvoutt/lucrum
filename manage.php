@@ -6,7 +6,10 @@
 
     <h1>Current Games</h1>
 
-      <button>Create Game</button>
+      <a href="create_game.php">
+        <!-- Hyperlink only for demonstration, remove when building structure -->
+        <button>Create Game</button>
+      </a>
 
       <table>
         <tr>

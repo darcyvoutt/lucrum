@@ -1,6 +1,8 @@
 <?php include('header.php') ?>
 
   <div class="content">
+
+    <h1>Create Player</h1>
       
     <form method="POST" action="manage.php">
       

@@ -2,6 +2,8 @@
 
   <div class="content">
 
+    <h1>Create Team</h1>
+
     <form method="POST" action="manage.php">
       
       <div class="formRow">
