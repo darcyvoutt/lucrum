@@ -3,9 +3,9 @@
 	<div class="content">
     
     <div class="login">
-      <form method="POST" action="dashboard.php">
+      <form method="POST" action="game.php">
 
-        <h3>Professor Login</h3>
+        <h3>Student Login</h3>
 
         <div class="formRow">
           <div class="formRow-label">
@@ -33,9 +33,11 @@
 
       </form>      
 
-      <form method="POST" action="professors.php">
+      <br><br>
 
-        <h3>Student Login</h3>
+      <form method="POST" action="manage.php">
+
+        <h3>Professor Login</h3>
 
         <div class="formRow">
           <div class="formRow-label">
@@ -65,7 +67,7 @@
     </div>
 
     <div class="signup">
-      <form method="POST" action="professors.php">
+      <form method="POST" action="manage.php">
 
         <h3>Create Account</h3>
 

@@ -25,4 +25,13 @@
 </head>
 <body>
 
-	<div class="header"></div>
+	<div class="header">
+
+    <ul class="nav">
+      <li><a href="game.php">Game</a></li>
+      <li><a href="manage.php">Manage</a></li>
+      <li><a href="profile.php">Profile</a></li>
+    </ul>
+  
+
+  </div>

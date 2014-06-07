@@ -17,7 +17,7 @@
         </tr>
         <tr>
           <td>1</td>
-          <td>MK101</td>
+          <td><a href="game.php">MK101</a></td>
           <td>Team A, Team B</td>
           <td>Active</td>
           <td>May 12, 2013</td>
@@ -25,7 +25,7 @@
         </tr>
         <tr>
           <td>2</td>
-          <td>GB203</td>
+          <td><a href="game.php">GB203</a></td>
           <td>Team A, Team C</td>
           <td>Scheduled</td>
           <td>Jan 20, 2015</td>
@@ -33,7 +33,7 @@
         </tr>
         <tr>
           <td>3</td>
-          <td>SM404</td>
+          <td><a href="game.php">SM404</a></td>
           <td>Team B, Team C</td>
           <td>Draft</td>
           <td>Jan 20, 2015</td>
@@ -82,7 +82,7 @@
         <tr>
           <td>1</td>
           <td>Jane Smith</td>
-          <td>janesmith@gmail.com</td>
+          <td><a href="mailto:janesmith@gmail.com">janesmith@gmail.com</a></td>
           <td>Active</td>
           <td></td>
           <td><button>Delete</button></td>
@@ -90,7 +90,7 @@
         <tr>
           <td>2</td>
           <td>Jack Smith</td>
-          <td>jacksmith@gmail.com</td>
+          <td><a href="mailto:jacksmith@gmail.com">jacksmith@gmail.com</a></td>
           <td>Inactive</td>
           <td><button>Pay</button></td>
           <td><button>Delete</button></td>
@@ -98,7 +98,7 @@
         <tr>
           <td>3</td>
           <td>Jennie Heper</td>
-          <td>jennieheper@gmail.com</td>
+          <td><a href="mailto:jennieheper@gmail.com">jennieheper@gmail.com</a></td>
           <td>Active</td>
           <td></td>
           <td><button>Delete</button></td>
