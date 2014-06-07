@@ -28,6 +28,7 @@
 	<div class="header">
 
     <ul class="nav">
+      <li><a href="index.php">Login</a></li>
       <li><a href="game.php">Game</a></li>
       <li><a href="manage.php">Manage</a></li>
       <li><a href="profile.php">Profile</a></li>

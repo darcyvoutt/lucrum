@@ -44,6 +44,8 @@
 
     <h1>Teams</h1>
 
+      <button>Add Team</button>
+      
       <table>
         <tr>
           <th>ID</th>
