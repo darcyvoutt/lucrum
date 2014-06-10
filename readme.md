@@ -50,3 +50,9 @@ The following are the collections and the data inside their documents.
 - Name
 - School
 - Players
+
+## Story Board
+
+We are using Trello to track tasks that need to be accomplished. We will add you to the board so that you can move the work into a completed bucket as you progress.
+
+[Trello Board](https://trello.com/b/1qun7Kxg/outsource-tasks)
